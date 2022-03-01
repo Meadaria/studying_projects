@@ -1,2 +1,2 @@
-# studying_projects_rus
-Projects that I made while I was studying in the ‘Data Analyst’ program conducted by the bootcamp ‘Practicum by Yandex’ .
+# studying__datd_analyst_projects_rus
+Учебные проекты, которые я сделала во врпемя обучения в Яндекс.Практикуме по специальности "Аналитик данных".
